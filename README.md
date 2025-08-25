@@ -144,4 +144,3 @@ blog-spring-security/
 
 **Lucas Ruben Beron Von Brand**  
 Proyecto realizado como parte del curso **Spring Security** de TodoCode Academy.
-
