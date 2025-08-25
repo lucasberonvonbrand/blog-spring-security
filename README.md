@@ -77,6 +77,8 @@ mysql -u <usuario> -p blog < ./db/blog-dump.sql
 
 ## 📁 Estructura del proyecto
 
+![Diagrama Entidad Relación del blog](images/DER-blog-spring-security.png)
+
 ```
 blog-spring-security/
 ├── src/
